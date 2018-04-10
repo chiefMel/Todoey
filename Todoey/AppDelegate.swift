@@ -2,9 +2,7 @@
 //  AppDelegate.swift
 //  Todoey
 //
-//  Created by
-//  Copyright © 2017  All rights reserved.
-//
+
 
 import UIKit
 import CoreData
